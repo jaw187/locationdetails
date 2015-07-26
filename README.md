@@ -1,7 +1,7 @@
 # Location Details
 
 ## Contrib
-Fork repo and make this repo the upstream remote
+Fork repo, make this repo the upstream remote, submit PR.
 
 ## Install
 ```
